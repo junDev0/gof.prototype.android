@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Button
+        android:id="@+id/menu_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:textSize="14dp"
+        android:textColor="#FFFFFF"
+        android:paddingRight="10dp"
+        android:paddingLeft="20dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true"
+        android:background="#000000"
+
+        />
+    <TextView
+    android:id="@+id/menu_home"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="NETFLIX"
+    android:textSize="28dp"
+    android:textColor="#FF0000"
+    android:textStyle="bold"
+    android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+    android:gravity="center"
+        android:layout_toRightOf="@id/menu_back"
+    />
+    <Button
+        android:id="@+id/menu_help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="고객센터"
+        android:textSize="14dp"
+        android:textColor="#FFFFFF"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:background="#000000"
+
+        />
+
+
+</RelativeLayout>

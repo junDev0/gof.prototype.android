@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Netflix.gof</string>
+    <string name="main_txt1">See Whats next</string>
+    <string name="main_txt2">다양한 기기에서 NETFLIX를 시청하세요. 무광고, 무</string>
+    <string name="main_txt3">약정으로 원하실 때 언제든지 해지하실수 있습니다.</string>
+
+    <string name="main_footer1">질문이 있으신가요? 고객센터에 문의하세요.</string>
+    <string name="main_footer2">GOF 대한민국</string>
+    <string name="main_footer3">GOF코리아 통신판매업신고번호 : 제2016-한빛2강의장</string>
+
+</resources>
